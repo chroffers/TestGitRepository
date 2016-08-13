@@ -7,6 +7,8 @@
     </head>
     <body>
         
+        CODE DEUXIEME BRANCHE
+        
         <h1> CA MARCHE </h1>
         
         
@@ -20,7 +22,10 @@
         <h4>Quatre</h4>
         
         <?php
-        // put your code here
+        include("./fichier_deuxieme_branche.php");
+        testInclude();
+        
+        
         ?>
     </body>
 </html>
